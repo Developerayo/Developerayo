@@ -3,7 +3,7 @@
 
 I love working with the developer community on a global scale,  building cool demo's, writing technical articles, speaking at conferences. I'm a Senior Developer Advocate based in Lagos, Nigeria but live on an Airplane 🔥✈️
 
-💬 Ask me about: ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web
+💬 Ask me about: Developer Advocacy, Program management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web
 
 ⚡️ What I do: 
 - Senior Developer Advocate
