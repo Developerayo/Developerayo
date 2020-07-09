@@ -3,9 +3,9 @@
 
 I love working with the developer community on a global scale,  building cool demo's, writing technical articles, speaking at conferences. I'm a Senior Developer Advocate based in Lagos, Nigeria but live on an Airplane 🔥✈️
 
-💬 Ask me about: Developer Advocacy, Program management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web
+💬 **Ask me about:** Developer Advocacy, Program management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web
 
-⚡️ What I do: 
+⚡️ **What I do:** 
 - Senior Developer Advocate
 - Speaking at Conferences [=>](http://speaking.shodipoayomide.com/), Send an Invite to [@developerayo](https://twitter.com/developerayo) if you need me at your Conference
 - Host of [DevRel chat](devrelchat.dev)
