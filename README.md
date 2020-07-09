@@ -1,4 +1,4 @@
-## Hey 👋 
+## Hey There 👋 
 ### I'm a Nerd 🤖
 
 I love working with the developer community on a global scale,  building cool demo's, writing technical articles, speaking at conferences. I'm a Senior Developer Advocate based in Lagos, Nigeria but live on an Airplane 🔥✈️
