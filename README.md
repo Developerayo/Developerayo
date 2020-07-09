@@ -18,3 +18,7 @@ I love working with the developer community on a global scale,  building cool de
 - Startup mentor at [The Tony Elumelu Foundation](https://www.tonyelumelufoundation.org/)
 
 📚 School: [Havard Business School](https://www.hbs.edu/Pages/default.aspx)
+
+📫 How to reach me: [@developerayo](https://twitter.com/developerayo)
+
+🥂 Cheers!
