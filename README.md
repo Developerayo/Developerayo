@@ -3,7 +3,7 @@
 
 I love working with the developer community on a global scale,  building cool demo's, writing technical articles, speaking at conferences. I'm a Senior Developer Advocate based in Lagos, Nigeria but I live on an Airplane 🔥✈️
 
-💬 **Ask me about:** Developer Advocacy, Program Management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web
+💬 **Ask me about:** Developer Advocacy, Program Management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web.
 
 ⚡️ **What I do:** 
 - Senior Developer Advocate
@@ -14,7 +14,7 @@ I love working with the developer community on a global scale,  building cool de
 - Admin at [DevRel Collective Slack](https://devrelcollective.fun/)
 - Cloudinary [Media Developer Expert](https://cloudinary.com/mde)
 - Technical Instructor on [Egghead](https://egghead.io/)
-- Learining Author for [Linkedin learning](https://www.linkedin.com/)
+- Learning Author for [Linkedin learning](https://www.linkedin.com/)
 - Community Lead at [Developers Circles Lagos from Facebook](https://www.facebook.com/groups/DevCLagos/)
 - Startup mentor at [The Tony Elumelu Foundation](https://www.tonyelumelufoundation.org/)
 
