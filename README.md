@@ -8,7 +8,7 @@ I love working with the developer community on a global scale,  building cool de
 ⚡️ **What I do:** 
 - Senior Developer Advocate
 - Speaking at Conferences [=>](http://speaking.shodipoayomide.com/), Send an Invite to [@developerayo](https://twitter.com/developerayo) if you need me at your Conference
-- Host of [DevRel chat](devrelchat.dev)
+- Host of [DevRelChat](devrelchat.dev)
 - Founder of [unStack Africa](http://unstack.africa/)
 - Core team [Open Source Community Africa](https://oscafrica.org/)
 - Admin at [DevRel Collective Slack](https://devrelcollective.fun/)
