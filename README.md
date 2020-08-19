@@ -23,3 +23,5 @@ I love working with the developer community on a global scale,  building cool de
 📫 How to reach me: [@developerayo](https://twitter.com/developerayo)
 
 🥂 Cheers!
+
+![Profile views](https://gpvc.arturio.dev/zfinix)  
