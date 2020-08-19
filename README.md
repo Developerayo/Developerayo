@@ -24,4 +24,4 @@ I love working with the developer community on a global scale,  building cool de
 
 🥂 Cheers!
 
-![Profile views](https://gpvc.arturio.dev/zfinix)  
+![Profile views](https://gpvc.arturio.dev/developerayo)  
