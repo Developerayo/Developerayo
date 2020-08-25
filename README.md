@@ -7,6 +7,7 @@ I love working with the developer community on a global scale,  building cool de
 
 ⚡️ **What I do:** 
 - Senior Developer Advocate
+- Program Manager
 - Speaking at Conferences [=>](http://speaking.shodipoayomide.com/), Send an Invite to [@developerayo](https://twitter.com/developerayo) if you need me at your Conference
 - Host of [DevRelChat](devrelchat.dev)
 - Founder of [unStack Africa](http://unstack.africa/)
