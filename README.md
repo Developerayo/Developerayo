@@ -6,7 +6,7 @@ I love working with the developer community on a global scale,  building cool de
 💬 **Ask me about:** Developer Advocacy, Program Management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web Perf.
 
 ⚡️ **What I do:** 
-- Dev. Relations Manager (Community & Platform Engineering) at Stack Overflow 🥑
+- Global Head for Developer Advocacy at Polygon * Ex: @stackoverflow 🥑
 - Speaking at Conferences [=>](http://speaking.shodipoayomide.com/), Send an Invite to [@developerayo](https://twitter.com/developerayo) if you need me at your Conference
 - Host of [DevRelChat](devrelchat.dev)
 - Founder of [unStack Africa](http://unstack.africa/)
