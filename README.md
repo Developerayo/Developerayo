@@ -1,9 +1,9 @@
 ## Hey There 👋 
 ### I'm a Nerd 🤖
 
-I love working with the developer community on a global scale,  building cool demo's, writing technical articles, speaking at conferences. based in Lagos, Nigeria but live on an Airplane 🔥✈️
+I love working with the developer community on a global scale,  building cool demo's, writing technical articles, speaking at conferences. based in London, England & Lagos, Nigeria but live on an Airplane 🔥✈️
 
-💬 **Ask me about:** Developer Advocacy, Program Management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web Perf.
+💬 **Ask me about:** Developer Advocacy, Cross-Team Leadership, Web and Mobile Engineering  Program Management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web Performance.
 
 ⚡️ **What I do:** 
 - Global Head for Developer Advocacy at Polygon * Ex: @stackoverflow 🥑
