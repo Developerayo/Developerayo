@@ -1,7 +1,7 @@
 ## Hey There 👋 
 ### I go by "I.O" most times 🤖
 
-I love working with the developer community in genera across the Web2/Web3 Ecosystem,  building cool demo's, writing technical articles, speaking at conferences. based in London, England & Lagos, Nigeria but I probably live on an Airplane these days ✈️
+I love working with the developer community in general, across the Web2/Web3 Ecosystem,  building cool demo's, writing technical articles, speaking at conferences. based in London, England & Lagos, Nigeria but I probably live on an Airplane these days ✈️
 
 💬 **Ask me about:** Developer Advocacy, Cross-Team Leadership, Layer-1, Layer-2, The Blockchain, Anything Web3, Web and Mobile Engineering, Program Management, Community Management, ReactJS, NextJS, VueJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web Performance, Solidity, Rust, Move and more Web3/Web2 Tech Stuff
 
