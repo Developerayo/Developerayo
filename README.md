@@ -34,7 +34,7 @@ Splitting my time between London 🇬🇧 and Lagos 🇳🇬, but you'll most li
 
 
 **Stared Recently**
-[![Last Stars Display](https://badges.pufler.dev/last-stars/developerayo?count=6&padding=15&perRow=3)](https://github.com/Developerayo?tab=stars)
+[![Last Stars Display](https://badges.pufler.dev/last-stars/developerayo?count=9&padding=20&perRow=3)](https://github.com/Developerayo?tab=stars)
 
 ![](https://komarev.com/ghpvc/?username=developerayo&color=green)
 
