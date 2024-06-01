@@ -1,11 +1,10 @@
 ## Greetings, Earthling! 👋
 ### Call me "I.O" – your friendly neighborhood laborer 🤖
 
-I'm excited about working with developer communities across various skill technologies. Currently heads deep in Smart Contracts & Full Stack Software, I get a kick out of creating nifty demos, penning down tech insights, and sharing knowledge at conferences.
+I'm excited about working with developer communities across various technologies. Currently heads deep in Smart Contracts & Full Stack Software.
 
-Splitting my time between London 🇬🇧 and Lagos 🇳🇬, but you'll most likely find me at **30,000 feet** – my second home is up in the air! ✈️
+Currently splitting my time between London 🇬🇧 and Lagos 🇳🇬, but you'll most likely find me at **30,000 feet** in the air! ✈️
 
-💬 **Ask me about:** Developer Advocacy, Cross-Team Leadership, Layer-1s, Layer-2s, Smart Contracts, Anything Web3, Web and Mobile Engineering, Program Management, Community Management, ReactJS, NextJS, TypeScript, VueJS, Performance, PWAs, PHP, Laravel, Testing, Open Source, Web Performance, Solidity, Rust, Move, SQL, Cloud Services, Databases, GraphQL, and related technologies. 
 
 🥑 **Currently:** 
 - VP of Developer Relations @InternetMaximalism | prev: @chronicleprotocol, @0xPolygon, @stackoverflow
