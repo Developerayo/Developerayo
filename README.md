@@ -7,7 +7,7 @@ Currently splitting my time between London 🇬🇧 and Lagos 🇳🇬, but you'
 
 
 🥑 **Currently:** 
-- VP of Developer Relations @InternetMaximalism | prev: @chronicleprotocol, @0xPolygon, @stackoverflow
+- Head of Developer Relations at Nuklai | prev: @chronicleprotocol, @0xPolygon, @stackoverflow
 
 
 <!--- - Speaking at Conferences [=>](http://speaking.shodipoayomide.com/), Send an Invite to [@developerayo](https://twitter.com/developerayo) if you need me at your Conference -->
