@@ -3,6 +3,8 @@
 
 I'm excited about working with developer communities across various technologies. Currently heads deep in Smart Contracts & Full Stack Software.
 
+🛠️ **Working with:** Rust, Golang, Solidity, TypeScript, Node.js, Next.js, LangChain, Verifiable Credentials
+
 Currently splitting my time between London 🇬🇧 and Lagos 🇳🇬, but you'll most likely find me at **30,000 feet** in the air! ✈️
 
 
