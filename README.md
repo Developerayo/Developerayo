@@ -40,7 +40,8 @@ How to reach me: [@developerayo](https://twitter.com/developerayo)
 - [Understanding and Implementing EIP-7702](https://blog.shodipoayomide.com/understanding-and-implementing-eip-7702)
 - [Simplifying Cross-Chain Transactions Using Intents](https://blog.shodipoayomide.com/Simplifying-Cross-Chain-Transactions-Using-Intents)
 - [GPU Accelerated Zero-Knowledge Proving](https://blog.shodipoayomide.com/Simplifying-Cross-Chain-Transactions-Using-Intents)
- 
+
+> Don't forget to subscribe to my newsletter for future posts. :) 
 ---
 
 
